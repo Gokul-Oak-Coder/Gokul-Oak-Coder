@@ -74,7 +74,27 @@ Varuvan Vadivelan Institute of Technology
 - Broadened accessibility and user base by enabling support for multiple languages.
 
 ### Other Projects
-- [Project Name](https://github.com/Gokul-Oak-Coder/ProjectName) - Brief description of the project.
+
+#### [Student Management App](https://github.com/Gokul-Oak-Coder/StudentManagementApp)
+An Android app for managing student details, built with Kotlin and Room DB, following the MVVM architecture. Features include:
+- RecyclerView with custom items
+- Google Maps integration for displaying student locations
+- Firebase authentication
+
+#### [Weather App](https://github.com/Gokul-Oak-Coder/WeatherApp)
+A simple Android application that provides weather updates for different locations. Built using Kotlin, Retrofit, and Coroutines.
+
+#### [Expense Tracker](https://github.com/Gokul-Oak-Coder/ExpenseTracker)
+An Android app for tracking expenses, built with Kotlin and Room DB. Features include:
+- Adding and categorizing expenses
+- Viewing expense history
+- Generating reports
+
+#### [Chat Application](https://github.com/Gokul-Oak-Coder/ChatApplication)
+A real-time chat application built using Kotlin and Firebase. Features include:
+- User authentication
+- Real-time messaging
+- Push notifications
 
 ## Languages Known
 - **Tamil:** Native
