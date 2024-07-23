@@ -4,11 +4,11 @@
 I'm an innovative Android Developer with 2 years of experience and a strong foundation in Android app programming and problem-solving. I'm proficient in multiple programming languages like Java and Kotlin, and experienced in full-stack mobile app development. I have a proven ability to design and implement scalable, efficient, and maintainable Android apps. I'm enthusiastic about staying up-to-date with emerging technologies and collaborating with cross-functional teams to deliver cutting-edge products.
 
 ## Skills
-- **Languages:** Java, Kotlin
-- **Development Tools:** Android Studio, Gradle, Git, GitHub
-- **Frameworks and Libraries:** Android SDK, LiveData, ViewModel, Room, Navigation, DataBinding, Retrofit, Volley, Glide, Picasso, Coroutines
+- **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+- **Development Tools:** ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- **Frameworks and Libraries:** ![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white) LiveData, ViewModel, Room, Navigation, DataBinding, Retrofit, Volley, Glide, Picasso, Coroutines
 - **Architecture:** MVVM, MVP
-- **UI/UX:** Figma, XML, Material Design
+- **UI/UX:** ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white) Material Design
 - **Databases:** Realm, Room, SharedPreferences
 - **Additional Tools:** RESTful APIs
 
@@ -38,24 +38,25 @@ Varuvan Vadivelan Institute of Technology
 **August 2017 – March 2021**
 
 ## Technical Skills
-- **Programming Languages:** Java, Kotlin
-- **Development Tools:** Android Studio, Gradle, Git, GitHub
-- **Frameworks and Libraries:** Android SDK, LiveData, ViewModel, Room, Navigation, DataBinding, Retrofit, Volley, Glide, Picasso, Coroutines
+- **Programming Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+- **Development Tools:** ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- **Frameworks and Libraries:** ![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white) LiveData, ViewModel, Room, Navigation, DataBinding, Retrofit, Volley, Glide, Picasso, Coroutines
 - **Architecture:** MVVM, MVP
-- **UI/UX:** Figma, XML, Material Design
+- **UI/UX:** ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white) Material Design
 - **Databases:** Realm, Room, SharedPreferences
 - **Additional Tools:** RESTful APIs
 
 ## Soft Skills
-- Problem-Solving
-- Communication
-- Team Collaboration
-- Time Management
-- Creativity
-- Flexibility
+- 💡 Problem-Solving
+- 🗣️ Communication
+- 👥 Team Collaboration
+- ⏱️ Time Management
+- 🎨 Creativity
+- 🤸 Flexibility
 
 ## Projects
-### Bank of Sabadell - Mobile Banking Application
+
+### [Bank of Sabadell - Mobile Banking Application](https://github.com/Gokul-Oak-Coder/BankOfSabadell)
 **Android Developer | NTT Data Global Delivery Services**  
 **Bangalore, India**  
 **August 2022 – February 2024 (1.7 years)**
@@ -72,16 +73,19 @@ Varuvan Vadivelan Institute of Technology
 - Significantly reduced crash rates and enhanced application stability.
 - Broadened accessibility and user base by enabling support for multiple languages.
 
+### Other Projects
+- [Project Name](https://github.com/Gokul-Oak-Coder/ProjectName) - Brief description of the project.
+
 ## Languages Known
 - **Tamil:** Native
 - **English:** Read, Write, Speak
 - **Kannada:** Speak
 
 ## Contact
-- **Email:** gokuloakcoder@gmail.com
-- **Phone:** +91 6374491416
-- **Location:** Dharmapuri, Tamil Nadu, 636705
-- **LinkedIn:** [Gokulkannan G](https://www.linkedin.com/in/gokulkannan-g-338037221)
+- 📧 **Email:** gokuloakcoder@gmail.com
+- 📞 **Phone:** +91 6374491416
+- 📍 **Location:** Dharmapuri, Tamil Nadu, 636705
+- 💼 **LinkedIn:** [Gokulkannan G](https://www.linkedin.com/in/gokulkannan-g-338037221)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gokul-Oak-Coder&show_icons=true&theme=radical)
